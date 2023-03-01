@@ -333,7 +333,7 @@ hr {
 
 .skillsbox {
     width: 26%;
-    /* height: 65%; */
+    height: 80%;
     background-color: #363543;
     box-shadow: 0 0 2px rgb(0, 0, 0);
     color: white;
